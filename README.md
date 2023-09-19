@@ -1,1 +1,1 @@
-# Heart_Desease_ML
+# Heart_Disease_ML
